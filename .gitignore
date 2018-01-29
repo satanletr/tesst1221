@@ -1,0 +1,12 @@
+2018-01-09_19-05-05 
+myvenv 
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+openvpn.log 
+test_django_app
+test.sh 
